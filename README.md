@@ -30,3 +30,23 @@ SmartEdgeStream is a real-time machine learning pipeline that simulates sensor d
 ```bash
 pip install -r requirements.txt
 
+2. Run the sensor stream simulator (generates example data)
+
+python stream_simulator.py
+
+3. Run the machine learning pipeline to process and label the data
+
+python pipeline.py
+
+4. Launch the Streamlit dashboard to visualize anomalies
+
+streamlit run app.py
+
+💡 Tip: For demo purposes, stream_simulator.py is limited to 10 entries for quick testing. You can modify the loop for continuous streaming.
+
+ 📷 Dashboard Preview
+
+> Example output from the real-time anomaly detection interface:
+
+![SmartEdgeStream UI](./smartedge.png)
+
