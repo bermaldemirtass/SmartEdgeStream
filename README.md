@@ -46,7 +46,7 @@ streamlit run app.py
 
  📷 Dashboard Preview
 
- Example output from the real-time anomaly detection interface:
+Example output from the real-time anomaly detection interface:
 
-![Dashboard Preview](https://raw.githubusercontent.com/bermaldemirtass/SmartEdgeStream/main/smartedge.png)
+<img src="https://raw.githubusercontent.com/bermaldemirtass/SmartEdgeStream/main/smartedge.png" alt="Dashboard Preview" width="800"/>
 
