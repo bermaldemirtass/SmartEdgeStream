@@ -44,8 +44,5 @@ streamlit run app.py
 
 💡 Tip: For demo purposes, stream_simulator.py is limited to 10 entries for quick testing. You can modify the loop for continuous streaming.
 
- 📷 Dashboard Preview
-
-Example output from the real-time anomaly detection interface:
 
 
