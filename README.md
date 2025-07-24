@@ -48,5 +48,4 @@ streamlit run app.py
 
 Example output from the real-time anomaly detection interface:
 
-<img src="https://raw.githubusercontent.com/bermaldemirtass/SmartEdgeStream/main/smartedge.png" alt="Dashboard Preview" width="800"/>
 
